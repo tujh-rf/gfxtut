@@ -20,3 +20,7 @@ To build tutorials execute next commands
 cmake -S . -B build_dir
 cmake --build build_dir
 ```
+
+## How to start
+
+First step to start studying will be to open [miscellaneous tutorials](01.misc/README.md).
