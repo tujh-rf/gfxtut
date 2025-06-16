@@ -9,7 +9,7 @@ project(
 
 # cmake modules folder
 list( APPEND CMAKE_MODULE_PATH
-    "${CMAKE_CURRENT_LIST_DIR}/cmake_mod"
+    "${CMAKE_CURRENT_LIST_DIR}/cmake"
 )
 
 # include CMake modules
